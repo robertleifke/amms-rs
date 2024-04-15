@@ -21,3 +21,4 @@ This lib provides functionality to [discover](https://github.com/darkforestry/am
 | Curve Pools     | ❌     |
 | Balancer Pools  | ❌     |
 | Bancor Pools    | ❌     |
+| DFMM Pools      | ❌     |
