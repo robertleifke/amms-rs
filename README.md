@@ -16,10 +16,10 @@ This lib provides functionality to [discover](https://github.com/darkforestry/am
 
 | AMM             | Status |
 | --------------- | ------ |
-| UniswapV2 Pools | ✅     |
-| UniswapV3 Pools | ✅     |
+| UniswapV2       | ✅     |
+| UniswapV3       | ✅     |
+| UniswapV4       | ✅     |
 | ERC4626 Vaults  | ✅     |
-| Izumi Pools     | 🟨     |
 | Curve Pools     | ❌     |
-| Balancer Pools  | ❌     |
-| Bancor Pools    | ❌     |
+| Balancer        | ❌     |
+| Numo Engine     | ❌     |
